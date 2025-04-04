@@ -1,0 +1,230 @@
+[
+    {
+        "Event": "PlaidCTF 2025",
+        "Init Date": "04 April, 21:00 UTC",
+        "Finish Date": "06 April 2025, 21:00 UTC",
+        "Weight": 100.0
+    },
+    {
+        "Event": "squ1rrel CTF 2025",
+        "Init Date": "04 April, 23:00 UTC",
+        "Finish Date": "06 April 2025, 17:00 UTC",
+        "Weight": 24.25
+    },
+    {
+        "Event": "1753CTF 2025",
+        "Init Date": "11 April, 17:00 UTC",
+        "Finish Date": "12 April 2025, 17:00 UTC",
+        "Weight": 34.82
+    },
+    {
+        "Event": "Texas Security Awareness Week 2025",
+        "Init Date": "11 April, 19:00 UTC",
+        "Finish Date": "13 April 2025, 19:00 UTC",
+        "Weight": 31.0
+    },
+    {
+        "Event": "DEF CON CTF Qualifier 2025",
+        "Init Date": "12 April, 00:00 UTC",
+        "Finish Date": "14 April 2025, 00:00 UTC",
+        "Weight": 69.44
+    },
+    {
+        "Event": "THCon 2K25 CTF",
+        "Init Date": "12 April, 08:00 UTC",
+        "Finish Date": "12 April 2025, 08:00 UTC",
+        "Weight": 23.65
+    },
+    {
+        "Event": "DawgCTF 2025",
+        "Init Date": "18 April, 12:00 UTC",
+        "Finish Date": "20 April 2025, 12:00 UTC",
+        "Weight": 69.0
+    },
+    {
+        "Event": "UMassCTF 2025",
+        "Init Date": "18 April, 18:00 UTC",
+        "Finish Date": "21 April 2025, 00:00 UTC",
+        "Weight": 48.38
+    },
+    {
+        "Event": "b01lers CTF 2025",
+        "Init Date": "18 April, 23:00 UTC",
+        "Finish Date": "20 April 2025, 23:00 UTC",
+        "Weight": 44.5
+    },
+    {
+        "Event": "Midnight Sun CTF 2025 Quals",
+        "Init Date": "19 April, 12:00 UTC",
+        "Finish Date": "20 April 2025, 12:00 UTC",
+        "Weight": 53.0
+    },
+    {
+        "Event": "UMDCTF 2025",
+        "Init Date": "25 April, 22:00 UTC",
+        "Finish Date": "27 April 2025, 22:00 UTC",
+        "Weight": 70.86
+    },
+    {
+        "Event": "bi0sCTF 2025",
+        "Init Date": "03 May, 05:30 UTC",
+        "Finish Date": "04 May 2025, 17:30 UTC",
+        "Weight": 95.79
+    },
+    {
+        "Event": "DevSecOps CTF 2025",
+        "Init Date": "04 May, 10:00 UTC",
+        "Finish Date": "04 May 2025, 22:00 UTC",
+        "Weight": 37.0
+    },
+    {
+        "Event": "LakeCTF Finals 24-25",
+        "Init Date": "09 May, 08:00 UTC",
+        "Finish Date": "09 May 2025, 16:00 UTC",
+        "Weight": 36.0
+    },
+    {
+        "Event": "Break the Syntax CTF 2025",
+        "Init Date": "09 May, 16:00 UTC",
+        "Finish Date": "11 May 2025, 10:00 UTC",
+        "Weight": 42.0
+    },
+    {
+        "Event": "DamCTF 2025",
+        "Init Date": "10 May, 00:00 UTC",
+        "Finish Date": "12 May 2025, 00:00 UTC",
+        "Weight": 60.67
+    },
+    {
+        "Event": "justCTF 2025 teaser",
+        "Init Date": "10 May, 09:00 UTC",
+        "Finish Date": "11 May 2025, 09:00 UTC",
+        "Weight": 97.2
+    },
+    {
+        "Event": "BYUCTF 2025",
+        "Init Date": "17 May, 02:00 UTC",
+        "Finish Date": "18 May 2025, 02:00 UTC",
+        "Weight": 36.94
+    },
+    {
+        "Event": "SAS CTF 2025 Quals",
+        "Init Date": "17 May, 12:00 UTC",
+        "Finish Date": "18 May 2025, 12:00 UTC",
+        "Weight": 20.72
+    },
+    {
+        "Event": "N0PSctf",
+        "Init Date": "31 May, 08:00 UTC",
+        "Finish Date": "01 June 2025, 20:00 UTC",
+        "Weight": 24.34
+    },
+    {
+        "Event": "smileyCTF 2025",
+        "Init Date": "06 June, 01:00 UTC",
+        "Finish Date": "08 June 2025, 01:00 UTC",
+        "Weight": 48.61
+    },
+    {
+        "Event": "Crypto CTF 2025",
+        "Init Date": "14 June, 06:00 UTC",
+        "Finish Date": "15 June 2025, 06:00 UTC",
+        "Weight": 88.25
+    },
+    {
+        "Event": "CyberSci Nationals 2025",
+        "Init Date": "14 June, 13:00 UTC",
+        "Finish Date": "15 June 2025, 23:00 UTC",
+        "Weight": 25.0
+    },
+    {
+        "Event": "GPN CTF 2025",
+        "Init Date": "20 June, 10:00 UTC",
+        "Finish Date": "21 June 2025, 22:00 UTC",
+        "Weight": 46.0
+    },
+    {
+        "Event": "GMO Cybersecurity Contest - IERAE CTF 2025",
+        "Init Date": "21 June, 06:00 UTC",
+        "Finish Date": "22 June 2025, 06:00 UTC",
+        "Weight": 25.0
+    },
+    {
+        "Event": "Google Capture The Flag 2025",
+        "Init Date": "27 June, 18:00 UTC",
+        "Finish Date": "29 June 2025, 18:00 UTC",
+        "Weight": 97.17
+    },
+    {
+        "Event": "UIUCTF 2025",
+        "Init Date": "28 June, 00:00 UTC",
+        "Finish Date": "30 June 2025, 00:00 UTC",
+        "Weight": 91.43
+    },
+    {
+        "Event": "R3CTF 2025",
+        "Init Date": "05 July, 02:00 UTC",
+        "Finish Date": "07 July 2025, 02:00 UTC",
+        "Weight": 24.5
+    },
+    {
+        "Event": "L3akCTF 2025",
+        "Init Date": "11 July, 17:00 UTC",
+        "Finish Date": "13 July 2025, 17:00 UTC",
+        "Weight": 24.43
+    },
+    {
+        "Event": "DownUnderCTF 2025",
+        "Init Date": "18 July, 09:30 UTC",
+        "Finish Date": "20 July 2025, 09:30 UTC",
+        "Weight": 91.66
+    },
+    {
+        "Event": "DeadSec CTF 2025",
+        "Init Date": "25 July, 22:00 UTC",
+        "Finish Date": "27 July 2025, 22:00 UTC",
+        "Weight": 31.29
+    },
+    {
+        "Event": "jailCTF 2025",
+        "Init Date": "15 Aug., 20:00 UTC",
+        "Finish Date": "18 Aug. 2025, 20:00 UTC",
+        "Weight": 24.88
+    },
+    {
+        "Event": "SekaiCTF 2025",
+        "Init Date": "23 Aug., 01:00 UTC",
+        "Finish Date": "25 Aug. 2025, 01:00 UTC",
+        "Weight": 55.0
+    },
+    {
+        "Event": "CrewCTF 2025",
+        "Init Date": "19 Sept., 21:00 UTC",
+        "Finish Date": "21 Sept. 2025, 21:00 UTC",
+        "Weight": 38.93
+    },
+    {
+        "Event": "Equinor CTF 2025",
+        "Init Date": "08 Nov., 09:00 UTC",
+        "Finish Date": "08 Nov. 2025, 19:00 UTC",
+        "Weight": 37.0
+    },
+    {
+        "Event": "Platypwn 2025",
+        "Init Date": "15 Nov., 12:00 UTC",
+        "Finish Date": "16 Nov. 2025, 12:00 UTC",
+        "Weight": 33.29
+    },
+    {
+        "Event": "GlacierCTF 2025",
+        "Init Date": "22 Nov., 18:00 UTC",
+        "Finish Date": "23 Nov. 2025, 18:00 UTC",
+        "Weight": 52.57
+    },
+    {
+        "Event": "ASIS CTF Final 2025",
+        "Init Date": "27 Dec., 14:00 UTC",
+        "Finish Date": "28 Dec. 2025, 14:00 UTC",
+        "Weight": 100.0
+    }
+]
